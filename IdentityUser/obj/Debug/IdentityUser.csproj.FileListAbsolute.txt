@@ -1,0 +1,5 @@
+D:\visualCalisma\E-Sinav\IdentityUser\bin\Debug\IdentityUser.dll
+D:\visualCalisma\E-Sinav\IdentityUser\bin\Debug\IdentityUser.pdb
+D:\visualCalisma\E-Sinav\IdentityUser\obj\Debug\IdentityUser.csprojResolveAssemblyReference.cache
+D:\visualCalisma\E-Sinav\IdentityUser\obj\Debug\IdentityUser.dll
+D:\visualCalisma\E-Sinav\IdentityUser\obj\Debug\IdentityUser.pdb
